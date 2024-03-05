@@ -1,0 +1,21 @@
+body{
+    margin:0;
+}
+.div1{
+    height:400px;
+    background-color: rgb(175, 154, 196);
+    display:flex;
+
+    
+}
+.box{
+    height:200px;
+    background-color: azure;
+    width:200px;
+    border:4px double gray;
+    padding:40px;
+    margin: 50px;
+}
+h3{
+    text-align: center;
+}
